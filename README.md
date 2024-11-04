@@ -2,6 +2,12 @@
 
 mint-keywind-theme is an extend to [Keywind](https://github.com/lukin/keywind)
 
+## **WARNING**
+
+This project has been abandoned, it's really not an ideal project structure, and also not good for maintenance.
+
+Personally now I recommend using [Keycloakify](https://github.com/keycloakify/keycloakify) to write your own theme. It is based on the React framework, has good modular support, and has good support for various versions of Keycloak.
+
 ## Overview
 
 While inheriting all the existing features of Keywind, this repository also includes the following optimizations and updates:
